@@ -20,7 +20,7 @@ LifeFlow is a modern, responsive frontend web application built using **React** 
 - 🌙 **Dark Mode** toggle
 - 📱 Fully responsive design
 - 📌 Sidebar-style navigation for mobile
-- 📋 Donor registration form (frontend only)
+- 📋 Donor registration form
 - 📊 Stats with animation using Framer Motion
 - 📰 Articles and blood donation info pages
 
