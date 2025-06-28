@@ -1,0 +1,9 @@
+{
+  "short_name": "LifeFlow",
+  "name": "LifeFlow",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#bb2124",
+  "background_color": "#ffffff"
+}
