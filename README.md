@@ -37,11 +37,14 @@ LifeFlow is a modern, responsive frontend web application built using **React** 
 
 Clone the project.
 
+```bash
+https://github.com/megha-2461/LifeFlow.git
+```
 
 Go to the project directory:
 
 ```bash
-cd LifeFlow/client
+cd LifeFlow
 ```
 
 Install dependencies
