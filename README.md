@@ -41,11 +41,8 @@ Clone the project.
 https://github.com/megha-2461/LifeFlow.git
 ```
 
-Go to the project directory:
+Go to the project directory.
 
-```bash
-cd LifeFlow
-```
 
 Install dependencies
 
