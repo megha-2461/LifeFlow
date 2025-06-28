@@ -1,7 +1,7 @@
 
 # LifeFlow 🩸
 
-LifeFlow is a modern, responsive frontend web application built using **React** and **Tailwind CSS**, aimed at simplifying blood donation registration and spreading awareness. With features like dark mode, mobile-friendly navigation, and modular pages, it offers a user-friendly interface for donors and organizations.
+LifeFlow is a modern, responsive web application built using **React** and **Tailwind CSS**, aimed at simplifying blood donation registration and spreading awareness. With features like dark mode, mobile-friendly navigation, and modular pages, it offers a user-friendly interface for donors and organizations.
 
 ## 🖼️ Screenshots
 
