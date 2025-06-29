@@ -19,7 +19,7 @@ const DonorRegistrationPage = () => {
       }
     } catch (error) {
       console.error("Registration failed:", error);
-      setStatus("error");
+        setStatus("error");
     }
   };
 
