@@ -4,7 +4,7 @@ import { FaHandsHelping, FaHeartbeat } from "react-icons/fa";
 function ImpactPage() {
   return (
     <div className="max-w-5xl mx-auto px-6 py-10 text-gray-800 dark:text-white transition-colors duration-300">
-      <section className="text-center mb-12">
+       <section className="text-center mb-12">
         <h1 className="text-4xl font-bold text-red-600 mb-4">About Us</h1>
         <p className="text-lg text-gray-700 dark:text-gray-300">
           At LifeFlow, we believe that every drop counts. Our mission is to make blood donation safe, easy, and accessible for everyone, everywhere.
